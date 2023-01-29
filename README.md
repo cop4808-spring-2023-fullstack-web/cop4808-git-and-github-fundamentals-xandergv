@@ -1,3 +1,8 @@
+
+# Name: Alexandro Galvez-Vega
+# Date: 1/28/2023
+# Class: Fullstack Web Development
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
